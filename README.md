@@ -1,2 +1,2 @@
-# Uzvards-Pica
+-Pica
 Picas kods kur jauzlabo
